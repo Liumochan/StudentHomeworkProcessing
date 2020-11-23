@@ -37,28 +37,30 @@
        ⑦. 自定义一个get方法，实现了古诗中某个字或词出现的次数
 ## 五.核心代码：
       for(int j = 7;j<=238;j=j+7,x+=7) {//x=x+7
-				if(j%2==0) {//==余数    j等于7，j小于字符长度的情况下，如果字符长度除以2余数等于0，
-					for(int i=x;i<j;i++) {//数组遍历
-						char c=w[i];
-						target.write(c);//循环
-					}
-					target.write("。\n");
-					}else {
-					for(int i=x;i<j;i++) {
-						char c=w[i];
-						target.write(c);
-					}
-					target.write(",");
-				}
-			}
-			FileReader ss = new FileReader(mac);//获取输入流
-			BufferedReader read=new BufferedReader(ss);//缓冲输入流
-			String s = read.readLine(); //按行读取
-			String k=word;			
-			int num = Get(s, k);    
-			System.out.println(k + " 字出现的次数是： " + num);
-			source.close();
-			target.close();//关闭结束循环
+	if(j%2==0) {//==余数    j等于7，j小于字符长度的情况下，如果字符长度除以2余数等于0，
+	for(int i=x;i<j;i++) {//数组遍历
+		char c=w[i];
+		target.write(c);//循环
+}
+		target.write("。\n");
+		}else {
+		for(int i=x;i<j;i++) {
+		char c=w[i];
+		target.write(c);
+}
+		target.write(",");
+}
+}
+	FileReader ss = new FileReader(mac);//获取输入流
+		BufferedReader read=new BufferedReader(ss);//缓冲输入流
+		String s = read.readLine(); //按行读取
+		String k=word;			
+		int num = Get(s, k);    
+		System.out.println(k + " 字出现的次数是： " + num);
+		source.close();
+		target.close();//关闭结束循环
+}
+	}
 ## 六.系统运行截图：。
 ## 七.编程感想:
 
