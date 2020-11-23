@@ -64,6 +64,9 @@
 	 }
 	
 、、、	
-## 六.系统运行截图：。
+## 六.系统运行截图：
+![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/Rq1QcIyJPlUbj53oyNfE7uyqkYFsXW8kMcibx6aZC4GYkvL1JSG5CTJVBrGVRNE12ahTibzRt49U4/0)
+![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/Rq1QcIyJPlUbj53oyNfE7uyqkYFsXW8kMcibx6aZC4GYkvL1JSG5CTJVBrGVRNE12ahTibzRt49U4/0)
 ## 七.编程感想:
+      通过本次实验掌握字符串String及其方法的使用，知道了然后获取输入流，掌握了异常处理语句的用法。
 
