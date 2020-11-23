@@ -50,7 +50,7 @@
 		target.write(c);
 }
 		target.write(",");
-}
+ }
 }
 	FileReader ss = new FileReader(mac);//获取输入流
 		BufferedReader read=new BufferedReader(ss);//缓冲输入流
@@ -60,10 +60,10 @@
 		System.out.println(k + " 字出现的次数是： " + num);
 		source.close();
 		target.close();//关闭结束循环
-}
-	}
+  }
+	 }
 	
-	
+、、、	
 ## 六.系统运行截图：。
 ## 七.编程感想:
 
