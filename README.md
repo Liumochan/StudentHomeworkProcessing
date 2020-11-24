@@ -68,5 +68,6 @@
 ![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/Rq1QcIyJPlUbj53oyNfE7uyqkYFsXW8krgC3EC4MKcRyfWt3AcWDLHibT3rN8kbiavxPfFdOGtloA/0)
 ![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/ZqDaDiccbgkhaTQicGw5jUDl2Qc6ibngZEeuiapJqmVian3lSuE8ibKbzSYasVEbCpiciaa90KFZAzLECU4/0)
 ## 七.编程感想:
-      通过本次实验掌握字符串String及其方法的使用，知道了然后获取输入流，掌握了异常处理语句的用法。
+      通过本次实验掌握了如何写方法，调用方法，如何向方法中传递信息和从方法中返回信息。
+      字符串String及其方法的使用，知道了如何获取输入流，掌握了异常处理语句的用法。
 
